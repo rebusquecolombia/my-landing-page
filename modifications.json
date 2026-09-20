@@ -1,0 +1,142 @@
+{
+  "schemaVersion": 1,
+  "upstream": {
+    "repository": "https://github.com/YusufCeng1z/svelte-gsap-template",
+    "commit": "a6648f678e3c8a592f108543771298d42ded7f66"
+  },
+  "hashAlgorithm": "sha256",
+  "entries": [
+    {
+      "path": ".npmrc",
+      "operation": "removed",
+      "upstreamSha256": "7151cf397def0c2cb0ab65643701d27d335a72c90f775675b5f826bc7005818a",
+      "destinationSha256": null
+    },
+    {
+      "path": "ATTRIBUTION.md",
+      "operation": "added",
+      "upstreamSha256": null,
+      "destinationSha256": "1988f25d897f39a7c02805d575b8c168ec23c95ef966e223ab482b8b778b28f7"
+    },
+    {
+      "path": "LICENSE",
+      "operation": "added",
+      "upstreamSha256": null,
+      "destinationSha256": "b7cb7136c1c2718371c90a69aea9018a15cf0e5442e469e2cfaa0c785c36c1f3"
+    },
+    {
+      "path": "README.md",
+      "operation": "modified",
+      "upstreamSha256": "5ce88eea1b5fc9a6922b5623af7a84ae9f543670dfaa0df818d523b5c6574d37",
+      "destinationSha256": "fba10b0f1f9438eb6b303d2ee6a06ef44dd898c867a47fd85acfadb264e9b296"
+    },
+    {
+      "path": "THIRD_PARTY_NOTICES.md",
+      "operation": "added",
+      "upstreamSha256": null,
+      "destinationSha256": "777ab57bd16bd3a6ee983254526c43dca1885ac2a974a3db878241e7d979a37d"
+    },
+    {
+      "path": "aura-preview.png",
+      "operation": "removed",
+      "upstreamSha256": "b7bfc1392221a26dbe4190e679fe72cb9388918439f2dca1cf641504b5658715",
+      "destinationSha256": null
+    },
+    {
+      "path": "package.json",
+      "operation": "modified",
+      "upstreamSha256": "0d99c20a2aca1231bcf6c11fe679e4700eefba5d697f3a8f2fc3664236488d73",
+      "destinationSha256": "942f261137ac4657bb8c55be92fdec901370c17b74f9e7a3fc5fcbdc8293c511"
+    },
+    {
+      "path": "src/lib/assets/favicon.svg",
+      "operation": "modified",
+      "upstreamSha256": "d7d9227f0fe5bfb4189fb6ba4dd9e2d524f6a1dfd02bd901c65330987675c0b3",
+      "destinationSha256": "6a01589950691068b0dda2c4f8f2b56bdfcd39ba5928626cde117d253f1209a2"
+    },
+    {
+      "path": "src/lib/components/Brands.svelte",
+      "operation": "modified",
+      "upstreamSha256": "dd1d538154c8e39544069ad1a8e2e9f98879504b1c7bcc061e270cc34853d9b6",
+      "destinationSha256": "7b0a277d91c45646f2709c62cae64770e81e3be8f3f9cd13d43fb548d1a93be9"
+    },
+    {
+      "path": "src/lib/components/Footer.svelte",
+      "operation": "modified",
+      "upstreamSha256": "97364d8748384294d7bc2d56765dab900956e9ecbc818f7a0abb3133f7cda0f2",
+      "destinationSha256": "e2a16417432cf97d5cea7b5f3921ebd2fbdcd456cb019e8894354cc9a80afb0a"
+    },
+    {
+      "path": "src/lib/components/Hero.svelte",
+      "operation": "modified",
+      "upstreamSha256": "ba7f9b189e848e38f175e1e3c4b255f456995541a7f10f328a746d44facb9320",
+      "destinationSha256": "84449d06124ccaf8a49c65020021563d07c88bd7ce3a32464e70fb7ff59d7c87"
+    },
+    {
+      "path": "src/lib/components/Seo.svelte",
+      "operation": "modified",
+      "upstreamSha256": "84d915d73559ec413bec4c2780cce7f8b0d79e2b3b4646f3fe69681c0d524f89",
+      "destinationSha256": "d80c36aa6bb75fdd53b3db5d10fe04a3c504d299ecbb458aa967eb91e4bf7ae8"
+    },
+    {
+      "path": "src/lib/components/Stats.svelte",
+      "operation": "modified",
+      "upstreamSha256": "c92c82f517a1201a9461447a4afdb9bbdbff36562ac2f23aaba89085d80369a6",
+      "destinationSha256": "07f5c9023104304b97f9dd6295fe5a471001ca9214e2ad1c62328be5d80f29b2"
+    },
+    {
+      "path": "src/lib/components/Testimonials.svelte",
+      "operation": "modified",
+      "upstreamSha256": "86be7ebc42ff03007df8260f92d7eafb680ab5b790645b2541a5bf37e456ac80",
+      "destinationSha256": "dad0dca71c5693846250a278e72adb16bef2fc083b81275cda2eb04650232ca4"
+    },
+    {
+      "path": "src/lib/components/WorksList.svelte",
+      "operation": "modified",
+      "upstreamSha256": "e523e0fd8364f425638a3f9817d3388f4f8fe89d63478b4744e1ad1afc9a5161",
+      "destinationSha256": "910ba0e249c067783b80bf6a80140014f7772a4901339e19f87b9f5069d44e4a"
+    },
+    {
+      "path": "src/lib/components/header.svelte",
+      "operation": "modified",
+      "upstreamSha256": "74d8636fb59703dc03bad06dad35b45df13d6f1b21ba543105515b3957946668",
+      "destinationSha256": "0089a6f78defda95eb80e9917377feea383eb8eaab2170b923856a4e32fa7a0b"
+    },
+    {
+      "path": "src/lib/components/logo.svelte",
+      "operation": "modified",
+      "upstreamSha256": "d7fc8230f6f8d265f2041d38804ef728d0a6f0977aec7c3c9e833ccb9446f70c",
+      "destinationSha256": "7a5669a12c1efa985ed4096b27d216c8dd3338651fecb986e7f34e7533ccab96"
+    },
+    {
+      "path": "src/routes/+layout.svelte",
+      "operation": "modified",
+      "upstreamSha256": "b80910a181298ae2961130d6be52a7a72a2077c6cba45a4284be44dff13e4efb",
+      "destinationSha256": "a9c8702356cc00754ebbccc35327885c5e02c1a46d3be7fccb28eb45e209c207"
+    },
+    {
+      "path": "src/routes/layout.css",
+      "operation": "modified",
+      "upstreamSha256": "73088fa31ed0b560cdd7a776e428328532cbbb234c487df2d5057561f6619f9b",
+      "destinationSha256": "4dbbbee867b46d69ca373fbe9e6a8129b72b17d057403ef6c171d15e620f87ea"
+    },
+    {
+      "path": "static/ascii-art.gif",
+      "operation": "removed",
+      "upstreamSha256": "a444c5d2b11d47f73178a612d54aac92d024be8f7321d53dfdb457b3eb737bf7",
+      "destinationSha256": null
+    },
+    {
+      "path": "static/og-image.png",
+      "operation": "removed",
+      "upstreamSha256": "b7bfc1392221a26dbe4190e679fe72cb9388918439f2dca1cf641504b5658715",
+      "destinationSha256": null
+    },
+    {
+      "path": "svelte.config.js",
+      "operation": "modified",
+      "upstreamSha256": "e56d8b3987ef131e97f132c9d1e436ce7456869a3d826997a27d7c14a3f58593",
+      "destinationSha256": "566ec40c700f2b9c2cfd877c8d3f9922060e7d36f1be99b1b63efccb3bc830e1"
+    }
+  ]
+}
